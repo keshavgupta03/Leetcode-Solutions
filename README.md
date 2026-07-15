@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
