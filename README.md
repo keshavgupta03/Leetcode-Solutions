@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
