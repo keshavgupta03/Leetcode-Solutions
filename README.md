@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
