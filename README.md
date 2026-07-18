@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
