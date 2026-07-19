@@ -26,6 +26,7 @@
 | [0724-find-pivot-index](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0048-rotate-image](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
