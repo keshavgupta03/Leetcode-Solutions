@@ -13,6 +13,7 @@
 | [0009-palindrome-number](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -82,4 +83,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
