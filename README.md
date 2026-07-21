@@ -21,6 +21,7 @@
 | [0048-rotate-image](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -65,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
