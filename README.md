@@ -10,6 +10,7 @@
 | [0205-isomorphic-strings](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0189-rotate-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
