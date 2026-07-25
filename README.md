@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -42,6 +43,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
