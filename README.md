@@ -37,6 +37,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshavgupta03/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
